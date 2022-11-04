@@ -24,6 +24,12 @@ padding: 0.5%;
 margin: -10% 0 -10 -50%;
 }
 
+.picture {
+  width: 10%;
+  height: auto;
+  float: left;
+}
+
 .startseite2 {
   margin-bottom: 150px;
 }
