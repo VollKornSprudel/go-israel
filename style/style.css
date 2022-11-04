@@ -23,6 +23,11 @@ border: 1px solid #001aff;
 padding: 0.5%;
 margin: -10% 0 -10 -50%;
 }
+
+.startseite2 {
+  margin-bottom: 150px;
+}
+
 .Youtube {
   float: right;
   border: 1px solid #ff0000;
