@@ -1,4 +1,0 @@
-past.html = Page 1 / Your Experience 
-index.html = Home / Welcome !
-future.html = Page 2 / Votre plans
-comments.html = Comments / Technical Description 
